@@ -27,7 +27,11 @@ Some words were missing, but they were filled later
 
 # 使用字體效果 Use Font Effects
 
-
+![]()
+![]()
+![]()
+![]()
+![]()
 
 # 原來的字體 Original Font
 
