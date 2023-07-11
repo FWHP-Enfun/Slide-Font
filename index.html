@@ -25,6 +25,10 @@ src: url(Woff/Slidexiaxing-Regular.woff)
 src: url(Woff/Slideqiuhong-Regular.woff)
 }
 
+@font-face{font-family:'Preview5';
+src: url(Woff/slideyouran1-Regular.woff)
+}
+
 .sweib2leg_textarea {
 	display: block;
 	width: calc(100% - 46px);
@@ -64,6 +68,10 @@ src: url(Woff/Slideqiuhong-Regular.woff)
         #Preview_text4 {font-family:'Preview4';}
         #Preview_ente4 {font-family:'Preview4';}
 
+	#Preview_title5 {font-family:'Preview5';}
+        #Preview_text5 {font-family:'Preview5';}
+        #Preview_ente5 {font-family:'Preview5';}
+	
     </style>
 </head>
 
@@ -209,6 +217,29 @@ I also made a variable font, but the effect is very poor and the practicability 
 
 <!-- 字體 Font 4 -->
 
+<!-- 字體 Font 5 -->
+
+<h1 id='Preview_title5'>演示悠然小楷1 slideyouran1</h2>
+
+<p>輸入看看 Enter to see～</p>
+<p>ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890!?,."'()[]{}:;/\_#+-=~|@<>*</p>
+
+字型大小： <input type="range" step="1" max="150" min="12" value="52" onchange="Pwsize5(value)">
+<output id="Tpwsize5">52 px</output>
+
+<input id='Preview_textBox5' type="search" size="100" placeholder="輸入文字Aa1234測試" value="預覽字體 Example Text">
+<p id='Preview_text5'>預覽字體 Example Text</p>
+
+<p>
+文字預覽：字體大小
+<input type="number" min="12" value="52" style="width: 40px; text-align: right;" onchange="PwImport5(value);">px
+
+<textarea class="sweib2leg_textarea" id="Preview_ente5">輸入文字Aa.Bb,Cc/Dd^1234測試</textarea>
+</p>
+字體網址 Font URL：<a href="https://github.com/FWHP-Enfun/Mixed-VsWeKai" target="_blank">https://github.com/FWHP-Enfun/Mixed-VsWeKai</a>
+
+<!-- 字體 Font 5 -->
+
     <!-- JavaScript -->
     <script>
 
@@ -330,6 +361,54 @@ chagefz.style.fontSize=Number(x)+ "px" ;
 }
     </script>
 
+    <script>
+
+const newPwInput4 = document.getElementById('Preview_textBox4');
+        const newPwOutput4 = document.getElementById('Preview_text4');
+        const newPwEnte4 = document.getElementById('Preview_ente4');
+        
+        function newPwTextUpdate4(){
+            newPwOutput4.innerHTML = newPwInput4.value;
+        }
+        newPwInput4.addEventListener('input', newPwTextUpdate4);
+
+function Pwsize4(x){
+var chagefz=document.getElementById("Preview_text4");
+var chagefz1=document.getElementById("Tpwsize4");
+chagefz1.innerHTML=Number(x)+ " px" ;
+chagefz.style.fontSize=Number(x)+ "px" ;
+}
+
+function PwImport4(x){
+var chagefz=document.getElementById("Preview_ente4");
+chagefz.style.fontSize=Number(x)+ "px" ;
+}
+    </script>
+
+    <script>
+
+const newPwInput5 = document.getElementById('Preview_textBox5');
+        const newPwOutput5 = document.getElementById('Preview_text5');
+        const newPwEnte5 = document.getElementById('Preview_ente5');
+        
+        function newPwTextUpdate5(){
+            newPwOutput5.innerHTML = newPwInput5.value;
+        }
+        newPwInput5.addEventListener('input', newPwTextUpdate5);
+
+function Pwsize5(x){
+var chagefz=document.getElementById("Preview_text5");
+var chagefz1=document.getElementById("Tpwsize5");
+chagefz1.innerHTML=Number(x)+ " px" ;
+chagefz.style.fontSize=Number(x)+ "px" ;
+}
+
+function PwImport5(x){
+var chagefz=document.getElementById("Preview_ente5");
+chagefz.style.fontSize=Number(x)+ "px" ;
+}
+    </script>
+	
 </div>
 </body>
 </html>
