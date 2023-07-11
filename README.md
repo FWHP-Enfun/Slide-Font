@@ -17,7 +17,13 @@ It can be changed at will, but it cannot be re-sold
 
 # 內容差別 Content Difference
 
+我修改一些符號，原來的全形字顯示是半形，後我改好了
 
+I modified some symbols, the original full-width characters were displayed as half-width characters, and I changed them later
+
+有些字有缺，後來補好了
+
+Some words were missing, but they were filled later
 
 # 使用字體效果 Use Font Effects
 
