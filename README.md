@@ -64,6 +64,10 @@ Anyone can use this font for free, including commercial use. No need to inform t
 
 * 您可以自由傳送、分享此字型，或與其他軟體綑綁發行、銷售。捆包中必須同時包含授權文件檔（OFL.txt）。
 
+
+According to the regulations of [SIL OFL](https://scripts.sil.org/OFL), it is forbidden to sell font files (ttf/otf) separately, which means do not steal and sell fonts, do not lie greedy for money, and respect font companies and A person who corrects words.
+
+
 You can freely transmit and share this font, or bundle it with other software for distribution and sales. The authorization file (OFL.txt) must also be included in the bundle.
 
 * 您可以自由改造、衍生此字型並公開。修改後的字型必須同樣以 [SIL OFL](https://scripts.sil.org/OFL) 進行發佈，並請勿使用字型的保留名稱。
