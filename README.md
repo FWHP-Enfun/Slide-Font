@@ -1,5 +1,23 @@
 # 演示系列字體 Slide Font
 
+https://github.com/maoken-fonts/slidefont
+
+現在，它正式放在這個網站，它變成開源字體，我比這個網站，有事先問的
+
+Now, it is officially placed on this website, and it has become an open source font. Compared with this website, I asked in advance
+
+這裡沒有補繁體字，只有改全半形，我認為改變不大，還是用原名上傳，這是我做的改良版
+
+There is no supplementary traditional Chinese characters here, only the full half-form characters are changed. I think the change is not big, so I upload it with the original name. This is the improved version I made
+
+如果我補好繁體，就會把字體改名字，創立新的Github項目
+
+If I complete the traditional Chinese, I will change the name of the font and create a new Github project
+
+我不會刪除這個網站，檔案也是，因為有開源的參考價值，都是免費商用字體，可以使用
+而
+I will not delete this website, the archives too, because there is open source reference value, all are free commercial fonts, you can use
+
 字體作者是Keynote的人生哥，我得到授權，可以隨便改字體，不可以二次販賣
 
 The author of the font is the life brother of Keynote. I have been authorized to change the font at will, and cannot re-sell it
