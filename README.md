@@ -2,9 +2,9 @@
 
 https://github.com/maoken-fonts/slidefont
 
-現在，它正式放在這個網站，它變成開源字體，我比這個網站，有事先問的
+現在，它正式放在這個網站，它變成開源字體，我比這個網站更早發布，我有事先問的
 
-Now, it is officially placed on this website, and it has become an open source font. Compared with this website, I asked in advance
+Now, it's officially on this site, it becomes an open source font, I posted it earlier than this site, I asked beforehand
 
 這裡沒有補繁體字，只有改全半形，我認為改變不大，還是用原名上傳，這是我做的改良版
 
